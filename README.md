@@ -13,3 +13,28 @@
 <p>Bag</p>
 <p>Ankle Boot</p>
 
+<h2>Features</h2>
+<p>
+Implementation of a custom CNN without pre-trained models.
+Visualization of misclassified labels.
+Display of predictions vs. true labels in color-coded plots (green = correct, red = wrong).
+Ability to test the model on custom images.
+</p>
+
+<h2>libraries used</h2>
+<p>
+  torch
+  torchvision
+  matplotlib 
+  seaborn
+  sickit-learn
+  pillow
+  time
+</p>
+
+<h2>Results</h2>
+<p>
+  correct predictions :  9208 out of  10000
+  accuracy score : 92.08%
+  20/20 | loss: 0.1446 | time: 112.03s
+</p>
