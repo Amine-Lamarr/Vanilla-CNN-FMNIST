@@ -15,26 +15,27 @@
 
 <h2>Features</h2>
 <p>
-Implementation of a custom CNN without pre-trained models.
-Visualization of misclassified labels.
-Display of predictions vs. true labels in color-coded plots (green = correct, red = wrong).
-Ability to test the model on custom images.
+Implementation of a custom CNN without pre-trained models.<br>
+Visualization of misclassified labels.<br>
+Display of predictions vs. true labels in color-coded plots (green = correct, red = wrong).<br>
+Ability to test the model on custom images.<br>
+  and more
 </p>
 
 <h2>libraries used</h2>
 <p>
-  torch
-  torchvision
-  matplotlib 
-  seaborn
-  sickit-learn
-  pillow
-  time
+  torch <br>
+  torchvision<br>
+  matplotlib <br>
+  seaborn<br>
+  sickit-learn<br>
+  pillow<br>
+  time<br>
 </p>
 
 <h2>Results</h2>
 <p>
-  correct predictions :  9208 out of  10000
-  accuracy score : 92.08%
-  20/20 | loss: 0.1446 | time: 112.03s
+  correct predictions :  9208 out of  10000<br>
+  accuracy score : 92.08%<br>
+  20/20 | loss: 0.1446 | time: 112.03s<br>
 </p>
